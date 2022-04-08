@@ -14,5 +14,5 @@ class Pessoa{
 
 let t1 = new Pessoa(55, "Juracir")
 console.log(`Nome do funcionário: ${t1.nome}
-                Idade: ${t1.idade}
-                Idade em Meses: ${t1.idade_meses()}`)
+Idade: ${t1.idade}
+Idade em Meses: ${t1.idade_meses()}`)
